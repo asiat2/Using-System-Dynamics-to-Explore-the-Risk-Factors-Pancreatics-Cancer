@@ -1,0 +1,330 @@
+{UTF-8}
+Big Data Acquisition  = A FUNCTION OF( Big Data Visuaization,Data Access and Sharing,\
+		"Data Bias & Representativeness",Data Extraction and Transformation Challenges,Data Fragmentation\
+		,Data Inconsistencies,Data Integration Complexities,Data Privacy and Security Risks\
+		,"Data Quality & Accuracy",Data Source Integration,"Data Volume & Velocity",Enhanced Data Availability\
+		,Enhanced Research Capabilities,Quality Improvement)
+	~	
+	~		|
+
+Big Data Visuaization  = A FUNCTION OF( Big Data Management,Data Privacy in Visualization\
+		,"Data-driven Storytelling",Effective Communication,Improved Data Comprehension,Information Overload\
+		,Miscommunication and Misinterpretation,User Friendly Interfaces,"Visual Perception & Cognitive Biases"\
+		)
+	~	
+	~		|
+
+Big Data Management  = A FUNCTION OF( Big Data Acquisition,Data Access and Sharing,Data Governance challenges\
+		,"Data Integration & Interoperability",Data Integration Complexities,"Data Ownership & Consent Management"\
+		,"Data Privacy & Security",Data Quality and Integrity issues,"Data Re-Identification risk"\
+		,Data Storage Costs,Enhance Data Integration,Improved Data Accessibility,Improved Efficiency and Workflow\
+		,Quality Improvement)
+	~	
+	~		|
+
+Big Data Healthcare  = A FUNCTION OF( Data Access and Sharing,"Data Bias & Representativeness"\
+		,Data Fragmentation,Data Governance challenges,"Data Integration & Interoperability"\
+		,"Data Ownership & Consent Management","Data Privacy & Security",Data Privacy and Security Risks\
+		,Data Privacy in Visualization,"Data Quality & Accuracy","Data Re-Identification risk"\
+		,Data Source Integration,Improved Efficiency and Workflow,Data Storage Costs,"Data-driven Storytelling"\
+		,"Data Volume & Velocity",Effective Communication,Enhanced Data Availability,Improved Data Accessibility\
+		,Improved Data Comprehension,Quality Improvement,Information Overload,Miscommunication and Misinterpretation\
+		,User Friendly Interfaces,"Visual Perception & Cognitive Biases")
+	~	
+	~		|
+
+Enhanced Data Availability  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Inconsistencies  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Extraction and Transformation Challenges  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Fragmentation  = A FUNCTION OF( )
+	~	
+	~		|
+
+Effective Communication  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Access and Sharing  = A FUNCTION OF( )
+	~	
+	~		|
+
+Improved Data Accessibility  = A FUNCTION OF( )
+	~	
+	~		|
+
+Enhanced Research Capabilities  = A FUNCTION OF( )
+	~	
+	~		|
+
+User Friendly Interfaces  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Integration Complexities  = A FUNCTION OF( )
+	~	
+	~		|
+
+Quality Improvement  = A FUNCTION OF( )
+	~	
+	~		|
+
+Miscommunication and Misinterpretation  = A FUNCTION OF( )
+	~	
+	~		|
+
+Enhance Data Integration  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Quality and Integrity issues  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Bias & Representativeness"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Source Integration  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Governance challenges  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Integration & Interoperability"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Improved Data Comprehension  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Interpretation & Bias"  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Ownership & Consent Management"  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Privacy & Security"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Privacy in Visualization  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Quality & Accuracy"  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Re-Identification risk"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Improved Efficiency and Workflow  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Storage Costs  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data-driven Storytelling"  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Data Volume & Velocity"  = A FUNCTION OF( )
+	~	
+	~		|
+
+Information Overload  = A FUNCTION OF( )
+	~	
+	~		|
+
+Data Privacy and Security Risks  = A FUNCTION OF( )
+	~	
+	~		|
+
+"Visual Perception & Cognitive Biases"  = A FUNCTION OF( )
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+10,1,Big Data Healthcare,734,185,66,66,2,3,0,6,-1,0,0,0,0-0-0,128-128-128,|12||0-0-0,0,0,0,0,0,0
+10,2,Big Data Acquisition,439,159,53,53,2,3,0,6,-1,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,3,Big Data Management,1037,140,49,49,2,3,0,6,-1,0,0,0,0-0-0,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,4,Big Data Visuaization,716,343,58,58,2,3,0,6,-1,0,0,0,0-0-0,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,5,"Data Privacy & Security",1040,248,58,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,6,"Data Quality & Accuracy",542,219,58,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,7,Data Governance challenges,944,86,56,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,8,"Data Integration & Interoperability",1148,59,85,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,9,Information Overload,646,462,53,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,10,Data Source Integration,320,353,62,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,11,Data Privacy and Security Risks,401,38,58,25,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,12,Improved Efficiency and Workflow,1240,146,67,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,13,"Data Re-Identification risk",1182,231,67,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,14,"Data-driven Storytelling",580,285,62,25,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,15,"Data Bias & Representativeness",547,88,85,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,16,"Data Volume & Velocity",558,143,51,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,17,"Data Ownership & Consent Management",914,163,53,32,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,18,Data Storage Costs,931,284,58,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,19,Data Privacy in Visualization,561,357,62,25,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,20,"Visual Perception & Cognitive Biases",874,413,65,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,21,11,2,1,0,45,0,0,192,0,-1--1--1,,1|(442,79)|
+1,22,15,2,1,0,45,0,0,192,0,-1--1--1,,1|(483,168)|
+1,23,10,2,1,0,0,0,0,192,0,-1--1--1,,1|(367,338)|
+1,24,6,2,1,0,45,0,0,192,0,-1--1--1,,1|(428,237)|
+1,25,16,2,1,0,43,0,0,192,0,-1--1--1,,1|(487,190)|
+1,26,14,4,1,0,43,0,0,192,0,-1--1--1,,1|(665,275)|
+1,27,19,4,1,0,0,0,0,192,0,-1--1--1,,1|(650,329)|
+1,28,20,4,1,0,45,0,0,192,0,-1--1--1,,1|(775,450)|
+1,29,9,4,0,0,45,0,0,192,0,-1--1--1,,1|(669,421)|
+1,30,7,3,1,0,45,0,0,192,0,-1--1--1,,1|(995,64)|
+1,31,8,3,1,0,0,0,0,192,0,-1--1--1,,1|(1082,45)|
+1,32,12,3,1,0,43,0,0,192,0,-1--1--1,,1|(1180,123)|
+1,33,13,3,1,0,45,0,0,192,0,-1--1--1,,1|(1084,147)|
+1,34,5,3,1,0,0,0,0,192,0,-1--1--1,,1|(1084,165)|
+1,35,18,3,1,0,45,0,0,192,0,-1--1--1,,1|(960,230)|
+1,36,17,3,1,0,0,0,0,192,0,-1--1--1,,1|(960,118)|
+1,37,15,1,1,0,45,0,0,192,0,-1--1--1,,1|(668,65)|
+1,38,17,1,1,0,0,0,0,192,0,-1--1--1,,1|(859,121)|
+1,39,7,1,1,0,45,0,0,192,0,-1--1--1,,1|(810,74)|
+1,40,18,1,1,0,45,0,0,192,0,-1--1--1,,1|(862,177)|
+1,41,14,1,1,0,43,0,0,192,0,-1--1--1,,1|(631,201)|
+1,42,19,1,1,0,0,0,0,192,0,-1--1--1,,1|(633,252)|
+1,43,20,1,1,0,45,0,0,192,0,-1--1--1,,1|(860,239)|
+1,44,9,1,1,0,45,0,0,192,0,-1--1--1,,1|(671,334)|
+1,45,11,1,1,0,45,0,0,192,0,-1--1--1,,1|(586,41)|
+1,46,16,1,1,0,43,0,0,192,0,-1--1--1,,1|(634,115)|
+1,47,6,1,1,0,45,0,0,192,0,-1--1--1,,1|(628,170)|
+1,48,8,1,1,0,0,0,0,192,0,-1--1--1,,1|(850,81)|
+1,49,12,1,1,0,43,0,0,192,0,-1--1--1,,1|(986,95)|
+1,50,13,1,1,0,0,0,0,192,0,-1--1--1,,1|(846,153)|
+1,51,5,1,1,0,0,0,0,192,0,-1--1--1,,1|(888,163)|
+10,52,Improved Data Comprehension,943,480,50,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,53,52,4,1,0,43,0,0,192,0,-1--1--1,,1|(799,357)|
+10,54,Data Quality and Integrity issues,1229,297,62,25,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,55,User Friendly Interfaces,993,405,62,32,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,56,Improved Data Accessibility,1156,355,62,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,57,Enhance Data Integration,1105,307,71,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,58,Data Integration Complexities,270,215,58,25,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,59,Enhanced Research Capabilities,377,284,62,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,60,Quality Improvement,275,135,47,17,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,61,Miscommunication and Misinterpretation,779,462,80,25,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,62,Data Access and Sharing,1019,320,53,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,63,60,2,1,0,43,0,0,192,0,-1--1--1,,1|(298,149)|
+1,64,58,2,1,0,45,0,0,192,0,-1--1--1,,1|(314,207)|
+1,65,59,2,1,0,43,0,0,192,0,-1--1--1,,1|(402,244)|
+1,66,61,4,0,0,45,0,0,192,0,-1--1--1,,1|(757,421)|
+1,67,55,4,1,0,43,0,0,192,0,-1--1--1,,1|(853,349)|
+1,68,62,3,0,0,45,0,0,192,0,-1--1--1,,1|(1025,249)|
+1,69,57,3,0,0,43,0,0,192,0,-1--1--1,,1|(1078,240)|
+1,70,54,3,1,0,45,0,0,192,0,-1--1--1,,1|(1140,193)|
+1,71,52,1,0,0,43,0,0,192,0,-1--1--1,,1|(855,355)|
+1,72,55,1,0,0,43,0,0,192,0,-1--1--1,,1|(875,304)|
+10,73,Improved Data Accessibility,702,46,53,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,74,Quality Improvement,590,25,62,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,75,Data Access and Sharing,786,21,58,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,76,74,1,0,0,0,0,0,192,0,-1--1--1,,1|(642,83)|
+1,77,73,1,0,0,0,0,0,192,0,-1--1--1,,1|(710,85)|
+1,78,75,1,0,0,0,0,0,192,0,-1--1--1,,1|(769,73)|
+10,79,Data Source Integration,902,25,58,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,80,79,1,0,0,0,0,0,192,0,-1--1--1,,1|(837,86)|
+1,81,56,3,0,0,43,0,0,192,0,-1--1--1,,1|(1105,263)|
+10,82,Data Integration Complexities,1261,195,58,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,83,82,3,1,0,45,0,0,192,0,-1--1--1,,1|(1228,178)|
+10,84,Data Access and Sharing,289,61,58,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,85,84,2,1,0,45,0,0,192,0,-1--1--1,,1|(377,87)|
+10,86,Data Extraction and Transformation Challenges,253,279,71,32,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,87,Data Inconsistencies,193,99,62,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,88,86,2,1,0,45,0,0,192,0,-1--1--1,,1|(324,255)|
+1,89,87,2,1,0,45,0,0,192,0,-1--1--1,,1|(297,85)|
+10,90,Data Fragmentation,178,170,46,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,91,90,2,1,0,45,0,0,192,0,-1--1--1,,1|(310,118)|
+10,92,Data Fragmentation,902,240,50,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,93,92,1,0,0,45,0,0,192,0,-1--1--1,,1|(830,216)|
+10,94,Enhanced Data Availability,151,217,49,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,95,94,2,1,0,43,0,0,192,0,-1--1--1,,1|(274,170)|
+10,96,Enhanced Data Availability,456,324,54,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,97,96,1,1,0,43,0,0,192,0,-1--1--1,,1|(572,245)|
+1,98,61,1,0,0,45,0,0,192,0,-1--1--1,,1|(760,350)|
+10,99,Effective Communication,538,422,62,23,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+1,100,99,4,0,0,43,0,0,192,0,-1--1--1,,1|(619,385)|
+1,101,99,1,1,0,43,0,0,192,0,-1--1--1,,1|(619,304)|
+10,102,Quality Improvement,1315,245,58,18,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+1,103,102,3,0,0,43,0,0,192,0,-1--1--1,,1|(1181,194)|
+1,104,2,3,1,0,43,0,0,192,0,-1--1--1,,1|(721,42)|
+1,105,3,4,1,0,43,0,0,192,0,-1--1--1,,1|(988,337)|
+1,106,4,2,1,0,43,0,0,192,0,-1--1--1,,1|(491,353)|
+///---\\\
+:L<%^E!@
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:0,
+34:0,
+42:1
+72:0
+73:0
+5:Data Governance challenges
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+76:0
+77:0
+78:0
+79:0
+80:0
+81:0
+24:0
+25:0
+26:0
+75:
+43:
